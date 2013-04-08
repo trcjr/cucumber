@@ -6,4 +6,4 @@ Feature: Scenario outlines
     Examples:
       | type    |
       | passing |
-      | failing |    
+      | failing |
